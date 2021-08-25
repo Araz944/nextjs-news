@@ -1,8 +1,6 @@
 {
-  "employeeOfTheMonth": {
-    "name": "Araz Mammadov",
-    "position": "Web Developer",
-    "imageURL": "https://i.stack.imgur.com/IU7ra.jpg?s=128&g=1",
-    "description": "Self-taught dev guy"
-  }
+  "name": "Araz Mammadov",
+  "position": "Web Developer",
+  "imageURL": "https://i.stack.imgur.com/IU7ra.jpg",
+  "description": "Self-taught dev guy"
 }
