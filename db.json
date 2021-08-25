@@ -1,8 +1,8 @@
-[
-  {
+{
+  "employeeOfTheMonth": {
     "name": "Araz Mammadov",
     "position": "Web Developer",
     "imageURL": "https://i.stack.imgur.com/IU7ra.jpg",
     "description": "Self-taught dev guy"
   }
-]
+}
